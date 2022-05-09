@@ -128,6 +128,11 @@ body {
     background-color: #fcf9eb !important;
 }
 
+.hide{
+    opacity: 0; 
+    transition: 1s opacity;
+}
+
 
 
 
