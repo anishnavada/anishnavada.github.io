@@ -1,3 +1,21 @@
+.mainInfo{
+    margin-top: 100px; 
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+}
+
+.cards{
+    display: none; 
+    margin-bottom: 500px; 
+}
+
+.intro{
+    width: 80%;
+    margin-top: 20px;
+    display: block; 
+}
+
 body {
     background-color: #faf0da !important;
 }
@@ -24,12 +42,7 @@ body {
     color: #383c44;
 }
 
-.mainInfo{
-    margin-top: 100px; 
-    display: flex;
-    align-items: center; 
-    justify-content: center;
-}
+
 
 #workContent{
     margin-top: 20px; 
@@ -68,12 +81,6 @@ body {
 
 #work{
     width: 8%;
-}
-
-
-.intro{
-    width: 80%;
-    margin-top: 20px;
 }
 
 .cards{
